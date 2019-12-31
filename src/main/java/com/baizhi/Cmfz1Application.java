@@ -12,4 +12,6 @@ public class Cmfz1Application {
         SpringApplication.run(Cmfz1Application.class, args);
     }
 
+    public void m1() {
+    }
 }
